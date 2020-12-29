@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,16 +10,28 @@
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap" rel="stylesheet"> 
-
-    <style>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">     <style>
         * {
-            font-family: 'PT Sans', sans-serif;
+            font-family: 'Open Sans', sans-serif;
         }
 
         .splash-container {
             background-image: url('img/graph_gif.webp');
             background-position: center;
+        }
+
+        .content {
+            background-color: #192734;
+            color: #B0B3B8;
+        }
+
+        .content-head, .project-exp {
+            color: #8899A6;
+        }
+
+        .project-exp {
+            text-decoration: dotted underline;
+            text-decoration-color: lightsteelblue;
         }
 
         html {
@@ -28,176 +41,209 @@
         a {
             cursor: pointer;
         }
+
+        .footer > a {
+            color: #8899A6;
+        }
     </style>
 </head>
+
 <body>
 
-<div class="header">
-    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed" id='headingmenu'>
-        <a class="pure-menu-heading" href="">Praveen Nair</a>
+    <div class="header">
+        <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed" id='headingmenu'>
+            <a class="pure-menu-heading" href="">Praveen Nair</a>
 
-        <ul class="pure-menu-list">
-            <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" onclick="document.getElementById('projects').scrollIntoView()">Projects</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" onclick="document.getElementById('experience').scrollIntoView()">Experience</a></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" onclick="document.getElementById('contact').scrollIntoView()">Contact</a></li>
-        </ul>
-    </div>
-</div>
-
-<div class="splash-container">
-    <div class="splash">
-        <h1 class="splash-head">Praveen Nair</h1>
-        <p class="splash-subhead">
-            Data Science, UC San Diego Class of 2022
-        </p>
-    </div>
-</div>
-
-<div class="content-wrapper">
-    <div class="content" id='projects'>
-        <h2 class="content-head is-center">Data Science Projects</h2>
-
-        <div class="pure-g">
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    UC San Diego Course Graph
-                </h3>
-                <a href='https://pnair7.github.io/course-graph'>
-                    <img class='pure-img' src='img/universe.PNG'><img>
-                    <p style="color: #505050;">
-                        A three-dimensional, interactive graph of UCSD's courses, linked by prerequisites.
-                    </p>
-                </a>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    American Demographics and the 2016 Election
-                </h3>
-                <a href='https://pnair7.github.io/dsc106-project'>
-                    <img class='pure-img' src='img/demograph.PNG'><img>
-                    <p style="color: #505050;">
-                        An interactive look at demographics and voting patterns by county in the 2016 presidential election.
-                    </p>
-                </a>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Does Winning Correlate with Positive Sentiment in Sportswriting?
-                </h3>
-                <a href='https://tinyurl.com/sportswritingpositivity'>
-                    <img class='pure-img' src='img/positivity.PNG'><img>
-                    <p style="color: #505050;">
-                        Sentiment analysis of 8 years of articles from the New York Times sports desk.
-                    </p>
-                </a>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Uber Travel Time Analysis
-                </h3>
-                <a href='https://tinyurl.com/pnair-datahacks'>
-                    <img class='pure-img' src='img/uber.PNG'><img>
-                    <p style="color: #505050;">
-                        Using RandomForestRegressor, estimating Uber ride times in San Francisco with an average error of 30 seconds.
-                    </p>
-                </a>
-            </div>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Home</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link"
+                        onclick="document.getElementById('projects').scrollIntoView()">Projects</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link"
+                        onclick="document.getElementById('experience').scrollIntoView()">Experience</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link"
+                        onclick="document.getElementById('contact').scrollIntoView()">Contact</a></li>
+            </ul>
         </div>
     </div>
 
-    
-    <div class="ribbon l-box-lrg pure-g">
-        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-            <img width="600" alt="Guardian Logo" class="pure-img-responsive" src="img/uc-san-diego.svg" style="background-color: white;">
-        </div>
-        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-
-            <h2 class="content-head content-head-ribbon">Coursework</h2>
-
-            <p style="color:lightgray;">
-                <span style="color: white;">Major in data science. Minors in history, linguistics, and political science.</span>
-                Coursework includes data analysis, machine learning, databases, data structures, algorithms, data visualization, 
-                web development, in languages such as <i class="fab fa-python"></i> Python, <i class="fab fa-java"></i> Java, 
-                <i class="fab fa-js-square"></i> Javascript, <i class="fab fa-r-project"></i> R, <i class="fas fa-code"></i> HTML/CSS, and <i class="fas fa-database"></i> SQL.
+    <div class="splash-container">
+        <div class="splash">
+            <h1 class="splash-head">Praveen Nair</h1>
+            <p class="splash-subhead">
+                Data Science, UC San Diego Class of 2022
             </p>
         </div>
     </div>
 
-    <div class="content" id='experience'>
-        <h2 class="content-head is-center">Experience</h2>
+    <div class="content-wrapper">
+        <div class="content" id='projects'>
+            <h2 class="content-head is-center">Data Science Projects</h2>
 
-        <div class="pure-g">
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Research Intern, Qualcomm Institute
-                </h3>
-                <img class='pure-img' src='img/qi.png'><img>
-                <p>
-                    Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
-                </p>
+            <div class="pure-g">
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        UC San Diego Course Graph
+                    </h3>
+                    <a href='https://pnair7.github.io/course-graph'>
+                        <img class='pure-img' src='img/universe.PNG'><img>
+                        <p class='project-exp'>
+                            A three-dimensional, interactive graph of UCSD's courses, linked by prerequisites.
+                        </p>
+                    </a>
+                </div>
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        American Demographics and the 2016 Election
+                    </h3>
+                    <a href='https://pnair7.github.io/dsc106-project'>
+                        <img class='pure-img' src='img/demograph.PNG'><img>
+                        <p class='project-exp'>
+                            An interactive look at demographics and voting patterns by county in the 2016 presidential
+                            election.
+                        </p>
+                    </a>
+                </div>
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        Does Winning Correlate with Positive Sentiment in Sportswriting?
+                    </h3>
+                    <a href='https://tinyurl.com/sportswritingpositivity'>
+                        <img class='pure-img' src='img/positivity.PNG'><img>
+                        <p class='project-exp'>
+                            Sentiment analysis of 8 years of articles from the New York Times sports desk.
+                        </p>
+                    </a>
+                </div>
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        Uber Travel Time Analysis
+                    </h3>
+                    <a href='https://tinyurl.com/pnair-datahacks'>
+                        <img class='pure-img' src='img/uber.PNG'><img>
+                        <p class='project-exp'>
+                            Using RandomForestRegressor, estimating Uber ride times in San Francisco with an average
+                            error of 30 seconds.
+                        </p>
+                    </a>
+                </div>
             </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Machine Learning/Software Engineering Intern, Percolata
-                </h3>
-                <img class='pure-img' src='img/percolata.jpg'>
-                <p>
-                    Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
-                </p>
+        </div>
+
+
+        <div class="ribbon l-box-lrg pure-g">
+            <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+                <img width="600" alt="Guardian Logo" class="pure-img-responsive" src="img/uc-san-diego.svg"
+                    style="background-color: white;">
             </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Halıcıoğlu Institute Sponsored Research Scholarship, Chatterbug
-                </h3>
-                <img class='pure-img' src='img/chatterbug-crop.jpg'><img>
-                <p>
-                    Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
-                </p>
-            </div>
-            <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
-                <h3 class="content-subhead">
-                    Pembroke-King's Summer Programme, University of Cambridge
-                </h3>
-                <img class='pure-img' src='img/IMG_6222.JPG'><img>
-                <p>
-                    Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.
+            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
+
+                <h2 class="content-head content-head-ribbon">Coursework</h2>
+
+                <p style="color:lightgray;">
+                    <span style="color: white;">Major in data science. Minors in history, linguistics, and political
+                        science.</span>
+                    Coursework includes data analysis, machine learning, databases, data structures, algorithms, data
+                    visualization,
+                    web development, in languages such as <i class="fab fa-python"></i> Python, <i
+                        class="fab fa-java"></i> Java,
+                    <i class="fab fa-js-square"></i> Javascript, <i class="fab fa-r-project"></i> R, <i
+                        class="fas fa-code"></i> HTML/CSS, and <i class="fas fa-database"></i> SQL.
                 </p>
             </div>
         </div>
-    </div>
 
-    <div class="ribbon l-box-lrg pure-g">
-        <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-            <img width="600" alt="Guardian Logo" class="pure-img-responsive" src="img/guardian.png">
+        <div class="content" id='experience'>
+            <h2 class="content-head is-center">Experience</h2>
+
+            <div class="pure-g">
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        Research Intern, Qualcomm Institute (10/2020 - Present)
+                    </h3>
+                    <img class='pure-img' src='img/qi.png'><img>
+                    <ul>
+                        <li>Conduct self-directed group research project relating to engagement in online learning</li>
+                        <li>Analyze educational data from UCSD campus databases using Tableau, Python</li>
+                    </ul>
+                </div>
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        Machine Learning/Software Engineering Intern, Percolata (6/2020 - 9/2020)
+                    </h3>
+                    <img class='pure-img' src='img/percolata.jpg'>
+                    <ul>
+                        <li>Worked on software development of product for automating day trading strategies, written in
+                            Python and based in Google Cloud Platform</li>
+                        <li>Ran machine learning experiments on timeseries financial data, including ARIMA, EMA, LSTM,
+                            XGBoost, RSI, among others</li>
+                        <li>Used Python, SQL, Google Cloud Platform, timeseries forecasting, Keras, gradient boosting
+                        </li>
+                    </ul>
+                </div>
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        Halıcıoğlu Institute Sponsored Research Scholarship, Chatterbug (9/2019 - 5/2020)
+                    </h3>
+                    <img class='pure-img' src='img/chatterbug-crop.jpg'><img>
+                    <ul>
+                        <li>Developed ML approach for success prediction in language learning service based on
+                            user-generated data during free trial period</li>
+                        <li>Used SQL, Python, Mode, Jupyter notebooks to extract and analyze data</li>
+                        <li>Worked alongside Chatterbug chief data scientist and UCSD faculty advisors</li>
+                    </ul>
+                </div>
+                <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                    <h3 class="content-subhead">
+                        Pembroke-King's Summer Programme, University of Cambridge (6/2020 - 7/2020)
+                    </h3>
+                    <img class='pure-img' src='img/IMG_6222.JPG'><img>
+                    <ul>
+                        <li>Took courses with Cambridge lecturers in linguistics, cybersecurity, and European history
+                        </li>
+                        <li>Wrote dissertations on popular support for Nazi Germany, cognitive benefits of bilingualism,
+                            and open source intelligence & security</li>
+                    </ul>
+                </div>
+            </div>
         </div>
-        <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-            <h2 class="content-head content-head-ribbon">Sports Editor, UCSD Guardian</h2>
+        <div class="ribbon l-box-lrg pure-g">
+            <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
+                <img width="600" alt="Guardian Logo" class="pure-img-responsive" src="img/guardian.png">
+            </div>
+            <div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
 
-            <p style="color:lightgray;">
-                I edit and write for the sports section of UCSD's campus newspaper. You can find articles I've written at 
-                <a href='https://ucsdguardian.org/author/prnair/' style="color: lightgray;">https://ucsdguardian.org/author/prnair/</a> 
-                and articles I've written at <a href='https://ucsdguardian.org/category/sports/' style="color: lightgray;">https://ucsdguardian.org/category/sports/</a>.
-            </p>
+                <h2 class="content-head content-head-ribbon">Sports Editor, UCSD Guardian</h2>
+
+                <p style="color:lightgray;">
+                    I edit and write for the sports section of UCSD's campus newspaper. You can find articles I've
+                    written at
+                    <a href='https://ucsdguardian.org/author/prnair/'
+                        style="color: lightgray;">https://ucsdguardian.org/author/prnair/</a>
+                    and articles I've written at <a href='https://ucsdguardian.org/category/sports/'
+                        style="color: lightgray;">https://ucsdguardian.org/category/sports/</a>.
+                </p>
+            </div>
         </div>
-    </div>
 
-    <div class="content" id='contact' style="margin-left: 30%; margin-right: 30%;">
-        <h2 class="content-head is-center">Contact</h2>
-        <ul class="fa-ul">
-            <li><i class="fa-li fa fa-envelope"></i>prnair@ucsd.edu</li>
-            <li><i class="fa-li fab fa-linkedin"></i><a href='https://www.linkedin.com/in/pnair7/'>https://www.linkedin.com/in/pnair7/</a></li>
-            <li><i class="fa-li fab fa-github"></i><a href='https://github.com/pnair7'>https://github.com/pnair7</a></li>
-        </ul>
-        <br><br>
-    </div>
+        <div class="content" id='contact'>
+            <h2 class="content-head is-center" style="margin-left: 30%; margin-right: 30%;">Contact</h2>
+            <ul class="fa-ul" style="margin-left: 30%; margin-right: 30%;">
+                <li><i class="fa-li fa fa-envelope"></i>prnair@ucsd.edu</li>
+                <li><i class="fa-li fab fa-linkedin"></i><a
+                        href='https://www.linkedin.com/in/pnair7/'>https://www.linkedin.com/in/pnair7/</a></li>
+                <li><i class="fa-li fab fa-github"></i><a href='https://github.com/pnair7'>https://github.com/pnair7</a>
+                </li>
+            </ul>
+            <br><br>
+        </div>
 
-    <div class="footer l-box is-center">
-        Made with <a href='https://purecss.io/'>PureCSS</a>.
-    </div>
+        <div class="footer l-box is-center">
+            This site was made with <a href='https://purecss.io/'>PureCSS</a>. You can find my code <a href='https://github.com/pnair7/pnair7.github.io'>here.</a>
+        </div>
 
-</div>
+    </div>
 
 </body>
+
 </html>
