@@ -35,6 +35,7 @@ nav li {
   list-style: none;
   display: inline-block;
   margin: 0;
+  font-size: 1.1rem;
 }
 
 nav a {
@@ -80,10 +81,11 @@ h3 {
 
 // typography: body
 p,
-li {
+li,
+ul {
   font-size: 1rem;
   line-height: 150%;
-  color: #aaa;
+  color: #bebebe;
   margin: 1.25rem 0;
 }
 
@@ -168,12 +170,15 @@ code {
 }
 
 .footer {
-  width: 90%;
-  max-width: $container-max-width;
+  width: 100%;
+  max-width: 1.1$container-max-width;
   margin: 4rem auto;
-  opacity: 50%;
+  opacity: 70%;
   line-height: 150%;
-  font-size: 0.9rem;
+  font-size: 1.4rem;
   text-align: center;
-  color: #ddd
+  color: #ddd;
+  position: sticky;
+  bottom: 0;
+  background-color: #15202b;
 }
