@@ -1,7 +1,7 @@
 ---
 ---
 
-*prnair@ucsd.edu* • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en) • [GitHub](https://github.com/pnair7) • [LinkedIn](https://www.linkedin.com/feed/)
+*prnair@ucsd.edu* • CV • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en) • [GitHub](https://github.com/pnair7) • [LinkedIn](https://www.linkedin.com/in/pnair7/)
 
 ---
 
@@ -50,4 +50,4 @@ As the lead TA for **DSC 80, Practice and Application of Data Science**, I led l
 
 ---
 
-*This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://github.com/katmh) theme by [katmh](https://github.com/katmh). The source for this site is available [https://github.com/pnair7/pnair7.github.io](here). Let me know if I've made any mistakes or if I need to update something!*
+*This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://github.com/katmh) theme by [katmh](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*
