@@ -50,4 +50,4 @@ As the lead TA for **DSC 80, Practice and Application of Data Science**, I led l
 
 ---
 
-*This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://github.com/katmh) theme by [katmh](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*
+*This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://github.com/katmh) theme by [Kat Huang (katmh)](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*
