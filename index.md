@@ -9,7 +9,7 @@
 
 ---
 
-**I'm currently advised by [Professor David Danks](https://www.daviddanks.org/) of the Halıcıoğlu Data Science Institute and Department of Philosophy at UCSD.** My thesis research deals with using active learning in fairness-sensitive decisions that suffer from unobserved counterfactuals, establishing how decisionmakers can benefit epistemically in the long run by observing points that were historically unlikely to be observed.
+**I'm currently advised by [Professor David Danks](https://www.daviddanks.org/) of the Halıcıoğlu Data Science Institute (HDSI) and Department of Philosophy at UCSD.** My thesis research deals with using active learning in fairness-sensitive decisions that suffer from unobserved counterfactuals, establishing how decisionmakers can benefit epistemically in the long run by observing points that were historically unlikely to be observed. I'm also currently a teaching assistant in HDSI, supervising the senior capstone course.
 
 Prior to my graduate study, I was a data science major at UC San Diego 🔱, graduating with minors in history and liguistics, and a concentration in political science. They wouldn't let me triple minor.
 
@@ -39,14 +39,6 @@ Outside the classroom, I was the sports editor of [The UCSD Guardian](https://uc
 **Engagement in online learning: student attitudes and behavior during COVID-19.** Hollister, B., **Nair, P.\***, Hill-Lindsay, S., & Chukoskie, L. Frontiers in Education, May 2022. [https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full](https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full)
 
 **\*** ***co-first-author***
-
----
-
-## ✏️ Teaching
-
-I've been a teaching assistant in the Halıcıoğlu Data Science Institute for every quarter as a graduate student at UCSD. As a teaching assistant for **DSC 180, the data science senior capstone sequence** (Fall 2022, Winter 2023, [Fall 2023, Winter 2024](https://dsc-capstone.org/)), I've advised and evaluated groups of students as they worked with faculty and industry mentors in a two-quarter project sequence. (The capstone had too few filled evaluations to report numerical results.)
-
-As the lead TA for **DSC 80, Practice and Application of Data Science**, I led live-coding discussions of 80 to 100 students by myself, held *very* busy office hours, and graded assignments. In teaching evaluations, 85.7% of students "strongly agreed" that they would recommend me to other students, while the remainder simply "agreed."
 
 ---
 
