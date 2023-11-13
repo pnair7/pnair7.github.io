@@ -1,7 +1,7 @@
 ---
 ---
 
-*prnair@ucsd.edu* • CV • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en) • [GitHub](https://github.com/pnair7) • [LinkedIn](https://www.linkedin.com/in/pnair7/)
+*prnair@ucsd.edu* • [CV](/assets/CV_2023_11.pdf) • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en) • [GitHub](https://github.com/pnair7) • [LinkedIn](https://www.linkedin.com/in/pnair7/)
 
 ---
 
