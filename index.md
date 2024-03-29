@@ -42,4 +42,4 @@ Outside the classroom, I was the sports editor of [The UCSD Guardian](https://uc
 
 ---
 
-*This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://github.com/katmh) theme by [Kat Huang (katmh)](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*
+*This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://jekyllrb.com/) theme by [Kat Huang (katmh)](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*
