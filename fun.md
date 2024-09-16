@@ -1,5 +1,5 @@
 ---
-title: Fun Stuff!
+title: Fun Stuff
 ---
 
 ## Undefeated Since 1968: Two Years at UC San Diego

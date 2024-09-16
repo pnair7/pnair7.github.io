@@ -29,14 +29,14 @@ nav-links:
   - name: Projects
     url: /projects
     external: false
-  - name: Fun Stuff!
+  - name: Fun Stuff
     url: /fun
     external: false
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: 👋 Hey! I'm Praveen, a second-year master's student in Computer Science and Engineering at UC San Diego, researching machine learning fairness and the responsible use of algorithms in society.
+greeting_text: 👋 Hey, I'm Praveen! I just finished my master's degree in Computer Science at UC San Diego, researching the responsible use of algorithms in society and causal discovery.
 
 # show blog post excerpts on blog page
 show_excerpts: false

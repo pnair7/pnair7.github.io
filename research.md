@@ -12,13 +12,19 @@ title: Research Experience
 
 ---
 
-## Master's Thesis Research
-*March 2023 — Present*
+## Integration of Overlapping Networks (ION)
+*September 2023 - Present*
 
-- **Main project:** In many common fairness settings, we can’t observe counterfactuals — e.g. would a person we denied a loan pay it back if we had granted it? — and this biases training data, creating uncertainty particularly for groups historically denied loans. 
-- Using techniques like **[structural equation modeling](https://stats.oarc.ucla.edu/r/seminars/rsem/) and [infomax active learning](https://en.wikipedia.org/wiki/Infomax)**, we seek to formalize whether getting labels (say, granting loans) for underrepresented groups or areas of our feature space for informational purposes could improve our model faster. This presents an explore-exploit tradeoff common in sequential decision problems, where we must balance doing what our model currently recommends with acquiring better training data.
-- Technically, using [blavaan](https://ecmerkle.github.io/blavaan/) for Bayesian latent-variable modeling, and formulated  likelihood function for our version of SEM
-- **Also:** establishing forward inference problem and running simulations for [integration of overlapping networks](https://proceedings.neurips.cc/paper_files/paper/2008/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html) problem in collaboration with the [TReNDS Center](https://trendscenter.org/)
+- Establishing forward inference problem and running simulations for [integration of overlapping networks](https://proceedings.neurips.cc/paper_files/paper/2008/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html) problem in collaboration with the [TReNDS Center](https://trendscenter.org/)
+- Running simulations on compute clusters with Kubernetes and Slurm, using [clingo](https://potassco.org/clingo/) to solve answer-set programming formulation of ION problem, and establishing use on empirical data
+
+
+## Active Learning and Epistemic Defenses of Fairness
+*March 2023 — June 2024*
+
+- **[Finished thesis available here](https://escholarship.org/content/qt2hm001k0/qt2hm001k0_noSplash_9acadb652ecaf8978f23cdf68974847f.pdf)**
+- In many common fairness settings, we can’t observe counterfactuals — e.g. would a person we denied a loan pay it back if we had granted it? — and this biases training data, creating uncertainty particularly for groups historically denied loans. Using techniques like **[structural equation modeling](https://stats.oarc.ucla.edu/r/seminars/rsem/) and [infomax active learning](https://en.wikipedia.org/wiki/Infomax)**, we show how in these situations even with optimal, unbiased models, differences in true group parameters can lead to large differences in uncertainty. 
+- Technically, using [blavaan](https://ecmerkle.github.io/blavaan/) for Bayesian latent-variable modeling, and formulated a maximum-likelihood problem to find points with greatest informational value
 
 ## Computational Research Intern, Scripps Research 
 *June 2021 — June 2022*

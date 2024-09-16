@@ -1,7 +1,7 @@
 ---
 ---
 
-$accent-color: #a6a6f8; // link color
+$accent-color: #00629B; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
 $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
@@ -17,7 +17,7 @@ $container-max-width: 700px;
 // structure
 body {
   font-family: $font-stack;
-  background-color: #15202b;
+  background-color: #fcfcfc;
 }
 
 #container {
@@ -46,14 +46,14 @@ nav a {
 h1,
 h2,
 h3 {
-  color: #ddd;
+  color: #182B49;
   font-family: $heading-font-stack;
 }
 
 h4 {
   font-size: 1.1rem;
   line-height: 140%;
-  color: #ddd;
+  color: #182B49;
 }
 
 h1 {
@@ -63,7 +63,7 @@ h1 {
 
 .global-title {
   font-size: 3rem;
-  color: #ddd;
+  color: #182b49;
 }
 
 h2 {
@@ -85,7 +85,7 @@ li,
 ul {
   font-size: 1rem;
   line-height: 150%;
-  color: #bebebe;
+  color: #222222;
   margin: 1.25rem 0;
 }
 
@@ -163,7 +163,7 @@ img {
 }
 
 code {
-  background: #ddd;
+  background: #fafafa;
   padding: 3px 5px;
   border-radius: 2px;
   font-family: $code-font-stack;
@@ -177,10 +177,10 @@ code {
   line-height: 150%;
   font-size: 1.4rem;
   text-align: center;
-  color: #ddd;
+  color: #222222;
   position: sticky;
   bottom: 0;
-  background-color: #15202b;
+  background-color: #fafafa;
 }
 
 #name-reminder {
