@@ -1,13 +1,13 @@
 ---
 ---
 
-*prnair@ucsd.edu* • [CV](/assets/CV_2024_9.pdf) • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en) • [GitHub](https://github.com/pnair7) • [LinkedIn](https://www.linkedin.com/in/pnair7/)
+*prnair@ucsd.edu* • [CV](/assets/CV_2024_9.pdf){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en){:target="_blank"} • [GitHub](https://github.com/pnair7){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/pnair7/){:target="_blank"}
 
-**I'm currently advised by [Professor David Danks](https://www.daviddanks.org/) of the Halıcıoğlu Data Science Institute (HDSI) and Department of Philosophy at UCSD.** My thesis research deals with using active learning in fairness-sensitive decisions that suffer from unobserved counterfactuals, establishing how decisionmakers can benefit epistemically in the long run by observing points that were historically unlikely to be observed. I'm also currently a teaching assistant in HDSI, supervising the senior capstone course.
+**I'm currently advised by [Professor David Danks](https://www.daviddanks.org/){:target="_blank"} of the Halıcıoğlu Data Science Institute (HDSI) and Department of Philosophy at UCSD.** My thesis research deals with using active learning in fairness-sensitive decisions that suffer from unobserved counterfactuals, establishing how decisionmakers can benefit epistemically in the long run by observing points that were historically unlikely to be observed. I'm also currently a teaching assistant in HDSI, supervising the senior capstone course.
 
 Prior to my graduate study, I was a data science major at UC San Diego 🔱, graduating with minors in history and liguistics, and a concentration in political science. (They wouldn't let me triple minor.)
 
-Outside the classroom, I was the sports editor of [The UCSD Guardian](https://ucsdguardian.org), I was (and continue to be) in UCSD's quizbowl club, and I spent a summer making a documentary about UCSD's history. In my free time, I'm watching as many sports as I can, reading books at a glacial pace, and reading Wikipedia pages.
+Outside the classroom, I was the sports editor of [The UCSD Guardian](https://ucsdguardian.org){:target="_blank"}, I was (and continue to be) in UCSD's quizbowl club, and I spent a summer making a documentary about UCSD's history. In my free time, I'm watching as many sports as I can, reading books at a glacial pace, and reading Wikipedia pages.
 
 ---
 
@@ -26,7 +26,7 @@ Outside the classroom, I was the sports editor of [The UCSD Guardian](https://uc
 
 * ...and plenty of other areas where people meet algorithms, such as interpretability, policy, algorithmic auditing, and participatory design.
 
----
+<!-- ---
 
 ## 📝 Publication(s)
 
@@ -34,6 +34,6 @@ Outside the classroom, I was the sports editor of [The UCSD Guardian](https://uc
 
 **\*** ***co-first-author***
 
----
+--- -->
 
 *This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://jekyllrb.com/) theme by [Kat Huang (katmh)](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*

@@ -4,7 +4,7 @@ title: Fun Stuff
 
 ## Undefeated Since 1968: Two Years at UC San Diego
 
-<img src="/assets/undefeated_poster.png" width = "50%" alt = "Undefeated Since 1968 poster"/>
+<img src="/assets/newspaper.jpg" width = "60%" alt = "me on the front page of the Union-Tribune"/>
 
 ### [Watch the video on YouTube here!](https://youtu.be/zwZPQAnD8tE) (1:11:02)
 
@@ -12,5 +12,5 @@ Over the summer between my bachelor's and master's degrees, I made a documentary
 
 After releasing the documentary, [I was featured on the front page of the San Diego Union-Tribune](https://www.sandiegouniontribune.com/news/education/story/2022-10-16/ucsd-football-documentary), in an article by Gary Robbins about my documentary. In addition, I was honored to receive second prize in the Feature Reporting category for College TV/Online Video at the San Diego Press Club Awards.
 
-<img src="/assets/newspaper.jpg" width = "60%" alt = "me on the front page of the Union-Tribune"/>
+<img src="/assets/undefeated_poster.png" width = "50%" alt = "Undefeated Since 1968 poster"/>
 
