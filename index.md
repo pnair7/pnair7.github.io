@@ -3,11 +3,11 @@
 
 *prnair@ucsd.edu* • [CV](/assets/CV_2024_9.pdf){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en){:target="_blank"} • [GitHub](https://github.com/pnair7){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/pnair7/){:target="_blank"}
 
-**I'm currently advised by [Professor David Danks](https://www.daviddanks.org/){:target="_blank"} of the Halıcıoğlu Data Science Institute (HDSI) and Department of Philosophy at UCSD.** My thesis research deals with using active learning in fairness-sensitive decisions that suffer from unobserved counterfactuals, establishing how decisionmakers can benefit epistemically in the long run by observing points that were historically unlikely to be observed. I'm also currently a teaching assistant in HDSI, supervising the senior capstone course.
+I was advised by [Professor David Danks](https://www.daviddanks.org/){:target="_blank"} of the Halıcıoğlu Data Science Institute (HDSI) and Department of Philosophy at UCSD, with whom I have continued to work on a couple projects. My thesis research deals with using causal inference and active learning in fairness-sensitive decisions where outcomes are not always observed, establishing how even without active bias or flawed models, imbalances in group size can lead to differences in uncertainty. I was also a teaching assistant in HDSI, supervising the [senior capstone course](https://dsc-capstone.org/){:target="_blank"} and [DSC 80](https://dsc80.com/){:target="_blank"}.
 
 Prior to my graduate study, I was a data science major at UC San Diego 🔱, graduating with minors in history and liguistics, and a concentration in political science. (They wouldn't let me triple minor.)
 
-Outside the classroom, I was the sports editor of [The UCSD Guardian](https://ucsdguardian.org){:target="_blank"}, I was (and continue to be) in UCSD's quizbowl club, and I spent a summer making a documentary about UCSD's history. In my free time, I'm watching as many sports as I can, reading books at a glacial pace, and reading Wikipedia pages.
+Outside the classroom, I was the sports editor of [The UCSD Guardian](https://ucsdguardian.org){:target="_blank"}, was in UCSD's quizbowl club, and spent a summer making [a documentary about UCSD's history](https://pnair7.github.io/fun). In my free time, I'm watching as many sports as I can, reading Wikipedia pages, and watching movies.
 
 ---
 
