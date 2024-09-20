@@ -14,3 +14,11 @@ After releasing the documentary, [I was featured on the front page of the San Di
 
 <img src="/assets/undefeated_poster.png" width = "50%" alt = "Undefeated Since 1968 poster"/>
 
+## NextProf Pathfinder 2023
+
+I was extremely lucky to be invited to the [2023 NextProf Pathfinder Workshop](https://nextprofpathfinder.engin.umich.edu/), hosted by the University of Michigan, and co-sponsored by UC San Diego's Jacobs School of Engineering and Georgia Tech's College of Engineering. At the three-day workshop, I had the chance to meet dozens of like-minded master's and PhD students in engineering from around the country, and learn more about the steps I can take towards my eventual goals of a faculty position. 
+
+![selfie of NextProf participants](assets/nextprof.jpg)
+
+This is besides the point, but I also had a great time walking around Ann Arbor, including the best sandwich I've had in years at Zingerman's. (It almost made me forget that my hands were so cold I couldn't move them very fast.)
+
