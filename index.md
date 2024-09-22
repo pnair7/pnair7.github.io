@@ -13,27 +13,12 @@ Outside the classroom, I was the sports editor of [The UCSD Guardian](https://uc
 
 ## 🧑‍💻 Research Interests
 
-### If and when we use algorithms to make important social decisions, what will go wrong, and how can we find out?
+* **Responsible ML:** How do we build decisionmaking systems around algorithms that uphold our values and lead to the outcomes we want? How can researchers and regulators detect unfairness in the wild?
 
-#### Specifically, that includes:
+* **Causal inference**: How can we use statistical methods to develop causal notions for discovery? Can the abstractions of causation give us the tools to develop more responsible ML systems?
 
-* **Machine learning fairness:** how can we ensure algorithms make decisions that match our philosophical notions of fairness? What *is* fair, anyway?
-  * Can we develop guidelines for algorithmic systems that are fair *from end to end*, from data collection to, ultimately, taking action?
-  * How do factors like temporal dynamics,  missingness, or other complications affect how we assess fairness?
-  * How can researchers and regulators detect unfairness in the wild?
+* **Interpretability**: Can humans gain a working understanding of complex models? Do we need to in order to use them?
 
-* **Human-AI interaction**: How do people make sense of and react to algorithmic decisionmaking that affects their lives? How do recent publicly released models affect the relationship between users and ML?
-
-* ...and plenty of other areas where people meet algorithms, such as interpretability, policy, algorithmic auditing, and participatory design.
-
-<!-- ---
-
-## 📝 Publication(s)
-
-**Engagement in online learning: student attitudes and behavior during COVID-19.** Hollister, B., **Nair, P.\***, Hill-Lindsay, S., & Chukoskie, L. Frontiers in Education, May 2022. [https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full](https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full)
-
-**\*** ***co-first-author***
-
---- -->
+---
 
 *This site was made with [Point Theme](https://github.com/katmh/point-theme), a [Jekyll](https://jekyllrb.com/) theme by [Kat Huang (katmh)](https://github.com/katmh). The source for this site is available [here](https://github.com/pnair7/pnair7.github.io). Let me know if I've made any mistakes or if I need to update something!*
