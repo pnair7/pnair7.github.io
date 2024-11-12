@@ -1,7 +1,7 @@
 ---
 ---
 
-*prnair@ucsd.edu* • [CV](/assets/CV_2024_9.pdf){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en){:target="_blank"} • [GitHub](https://github.com/pnair7){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/pnair7/){:target="_blank"}
+*prnair@ucsd.edu* • [CV](/assets/CV.pdf){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en){:target="_blank"} • [GitHub](https://github.com/pnair7){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/pnair7/){:target="_blank"}
 
 I was advised by [Professor David Danks](https://www.daviddanks.org/){:target="_blank"} of the Halıcıoğlu Data Science Institute (HDSI) and Department of Philosophy at UCSD, with whom I have continued to work on a couple projects. My thesis research deals with using causal inference and active learning in fairness-sensitive decisions where outcomes are not always observed, establishing how even without active bias or flawed models, imbalances in group size can lead to differences in uncertainty. I was also a teaching assistant in HDSI, supervising the [senior capstone course](https://dsc-capstone.org/){:target="_blank"} and [DSC 80](https://dsc80.com/){:target="_blank"}.
 
