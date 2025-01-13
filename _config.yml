@@ -9,7 +9,7 @@ url: https://pnair7.github.io
 
 # for header and meta tags
 title: Praveen Nair
-description: Praveen Nair, master's student at UC San Diego
+description: Praveen Nair
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -36,7 +36,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: 👋 Hey, I'm Praveen! I just finished my master's degree in Computer Science at UC San Diego, researching the responsible use of algorithms in society and causal discovery.
+greeting_text: 👋 Hey, I'm Praveen! I'm a research associate with the Digital Emotions Lab at Harvard Business School, and I'm interested in causality and the responsible use of algorithms in society.
 
 # show blog post excerpts on blog page
 show_excerpts: false

@@ -2,11 +2,19 @@
 title: Research Experience
 ---
 
-## Integration of Overlapping Networks (ION)
+## Research Associate, [Digital Emotions Lab](https://www.amitgoldenberg.com/){:target="_blank"}, Harvard Business School
+*January 2025 - Present*
+
+- Studying human-AI interaction in emotional regulation tasks, using experimental and machine learning methods
+- Building platform for human-AI trials, and developing pilot and large-scale studies
+- Supporting lab's computational, data, and informational infrastructure
+
+## Integration of Overlapping Networks via Constrains (ION-C)
 *September 2023 - Present*
 
-- Establishing forward inference problem and running simulations for [integration of overlapping networks](https://proceedings.neurips.cc/paper_files/paper/2008/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html){:target="_blank"} problem in collaboration with the [TReNDS Center](https://trendscenter.org/){:target="_blank"}
-- Running simulations on compute clusters with Kubernetes and Slurm, using [clingo](https://potassco.org/clingo/){:target="_blank"} to solve answer-set programming formulation of ION problem, and establishing use on empirical data
+- Lead author on paper introducing constraint-solving approach to [integration of overlapping networks](https://proceedings.neurips.cc/paper_files/paper/2008/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html){:target="_blank"} problem with applications in neuroscience and social science, in collaboration with the [TReNDS Center](https://trendscenter.org/){:target="_blank"} and [Professor Sergey Plis](https://trendscenter.org/sergey-plis/){:target="_blank"}
+- Running simulations on compute clusters with Kubernetes and Slurm, using [clingo](https://potassco.org/clingo/){:target="_blank"} to solve answer-set programming formulation, establishing use on empirical data, and implementing causal learning methods to optimize inputs
+- Paper in submission, **[currently on arXiv](https://arxiv.org/abs/2411.04243){:target="_blank"}**
 
 
 ## Active Learning and Epistemic Defenses of Fairness
@@ -40,9 +48,13 @@ title: Research Experience
 
 ---
 
-## 📝 Publication(s)
+## 📝 Publications
 
-**Engagement in online learning: student attitudes and behavior during COVID-19.** Hollister, B., **Nair, P.\***, Hill-Lindsay, S., & Chukoskie, L. Frontiers in Education, May 2022. [https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full](https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full){:target="_blank"}
+**ION-C: Integration of Overlapping Networks via Constraints.** ***Nair, P.***, Bhandari, P., Abavisani, M., Plis, S., & Danks, D. (2024). arXiv preprint arXiv:2411.04243. [https://arxiv.org/abs/2411.04243](https://arxiv.org/abs/2411.04243){:target="_blank"}
+
+**Active Learning and Epistemic Defenses of Fairness.** ***Nair, P.*** (2024). (Master's thesis, University of California, San Diego). [Available on escholarship.org.](https://escholarship.org/content/qt2hm001k0/qt2hm001k0_noSplash_9acadb652ecaf8978f23cdf68974847f.pdf){:target="_blank"}
+
+**Engagement in online learning: student attitudes and behavior during COVID-19.** Hollister, B.\*, ***Nair, P.\****, Hill-Lindsay, S., & Chukoskie, L. Frontiers in Education, May 2022. [https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full](https://www.frontiersin.org/articles/10.3389/feduc.2022.851019/full){:target="_blank"}
 
 **\*** ***co-first-author***
 
