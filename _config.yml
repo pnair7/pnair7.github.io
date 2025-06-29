@@ -36,7 +36,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: 👋 Hey, I'm Praveen! I'm a research associate with the Digital Emotions Lab at Harvard Business School, and I'm interested in causality and the responsible use of algorithms in society.
+greeting_text: 👋 Hey, I'm Praveen! I'm an incoming Computer Science PhD student at Brown University, and I'm interested in the responsible use of algorithms in society, causality, and computational social science.
 
 # show blog post excerpts on blog page
 show_excerpts: false

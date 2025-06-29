@@ -26,14 +26,13 @@ title: Other Experience
 
 ## Other Employment
 
-### Sports Editor, UCSD Guardian
+### Sports Editor, [UCSD Guardian](https://ucsdguardian.org/){:target="_blank"}
 
 ***Editor**, September 2020 — June 2022; **Staff Writer**, April 2019 — September 2020*
 
 - Wrote and edited for UCSD's campus newspaper, mostly but not entirely about sports
-- Not sure if this is still true, but I was by some margin the Guardian's active leader in articles written -- I think I have about 76 total
-- You can read all the articles I wrote [here!](https://ucsdguardian.org/author/prnair/){:target="_blank"}
-- With support from the Guardian, I also created [Undefeated Since 1968](/fun){:target="_blank"}, which is likely the coolest thing I've ever done
+- I was by some margin the Guardian's active leader in articles written, at 79 -- you can read all the articles I wrote [here!](https://ucsdguardian.org/staff_name/praveen-nair/){:target="_blank"}
+- With support from the Guardian, I also created [Undefeated Since 1968](/fun){:target="_blank"}, which is likely the coolest thing I've done
 
 ### Machine Learning & Software Engineering Intern, [Percolata](https://www.percolata.com/){:target="_blank"}
 

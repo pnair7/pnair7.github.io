@@ -3,25 +3,27 @@ title: Research Experience
 ---
 
 ## Research Associate, [Digital Emotions Lab](https://www.amitgoldenberg.com/){:target="_blank"}, Harvard Business School
-*January 2025 - Present*
+*January — June 2025*
 
-- Studying human-AI interaction in emotional regulation tasks, using experimental and machine learning methods
-- Building platform for human-AI trials, and developing pilot and large-scale studies
-- Supporting lab's computational, data, and informational infrastructure
+- Supported multiple projects in computational social science and human-AI interaction, combining analysis and experiment design
+- Designed and implemented live, interactive study with both human-human interactions (using [Smartriqs](https://www.smartriqs.com/){:target="_blank"}) and human-AI interaction using the OpenAI API.
+- Performed analysis in R and Python, using statistical and embeddings-based methods.
+- Supported lab's computational, data, and informational infrastructure.
+- Preprint in submission, [now on Psyarxiv](https://osf.io/preprints/psyarxiv/fzvd8_v3){:target="_blank"}
 
-## Integration of Overlapping Networks via Constrains (ION-C)
-*September 2023 - Present*
+## Integration of Overlapping Networks via Constraints (ION-C)
+*September 2023 — Present*
 
+- Paper in submission, **[currently on arXiv](https://arxiv.org/abs/2411.04243){:target="_blank"}**
 - Lead author on paper introducing constraint-solving approach to [integration of overlapping networks](https://proceedings.neurips.cc/paper_files/paper/2008/hash/37bc2f75bf1bcfe8450a1a41c200364c-Abstract.html){:target="_blank"} problem with applications in neuroscience and social science, in collaboration with the [TReNDS Center](https://trendscenter.org/){:target="_blank"} and [Professor Sergey Plis](https://trendscenter.org/sergey-plis/){:target="_blank"}
 - Running simulations on compute clusters with Kubernetes and Slurm, using [clingo](https://potassco.org/clingo/){:target="_blank"} to solve answer-set programming formulation, establishing use on empirical data, and implementing causal learning methods to optimize inputs
-- Paper in submission, **[currently on arXiv](https://arxiv.org/abs/2411.04243){:target="_blank"}**
 
 
 ## Active Learning and Epistemic Defenses of Fairness
-*March 2023 — Present*
+*March 2023 — June 2024*
 
 - **[Finished thesis available here](https://escholarship.org/content/qt2hm001k0/qt2hm001k0_noSplash_9acadb652ecaf8978f23cdf68974847f.pdf){:target="_blank"}**
-- In many common fairness settings, we can’t observe counterfactuals — e.g. would a person we denied a loan pay it back if we had granted it? — and this biases training data, creating uncertainty particularly for groups historically denied loans. Using techniques like **[structural equation modeling](https://stats.oarc.ucla.edu/r/seminars/rsem/){:target="_blank"} and [infomax active learning](https://en.wikipedia.org/wiki/Infomax){:target="_blank"}**, we show how in these situations even with optimal, unbiased models, differences in true group parameters can lead to large differences in uncertainty. 
+- In many common fairness settings, we can’t observe counterfactuals — e.g. would a person we denied a loan pay it back if we had granted it? — and this biases training data, creating uncertainty particularly for groups historically denied loans. Using techniques like [structural equation modeling](https://stats.oarc.ucla.edu/r/seminars/rsem/){:target="_blank"} and [infomax active learning](https://en.wikipedia.org/wiki/Infomax){:target="_blank"}, we show how in these situations even with optimal, unbiased models, differences in true group parameters can lead to large differences in uncertainty. 
 - Technically, using [blavaan](https://ecmerkle.github.io/blavaan/){:target="_blank"} for Bayesian latent-variable modeling, and formulated a maximum-likelihood problem to find points with greatest informational value
 
 ## Computational Research Intern, Scripps Research 
@@ -33,7 +35,7 @@ title: Research Experience
 - Worked on projects studying neurological underpinnings of physiological arousal, mouse scent marking, and olfaction
 
 ## Research Intern, UC San Diego Computer Science and Engineering
-*June 2021 — December 2021*
+*June — December 2021*
 
 - Under [Professor Christine Alvarado](https://sites.google.com/ucsd.edu/alvarado/home){:target="_blank"}, studied the effects of [ERSP](https://sites.google.com/ucsd.edu/ersp/home){:target="_blank"}, an early-undergraduate CS research program, on students' senses of identity as researchers and computer scientists
 - Used thematic analysis methods on open-ended survey data, as well as Python for preprocessing, analysis, and interrater reliability calculation
@@ -44,7 +46,7 @@ title: Research Experience
 - Along with another undergraduate, supervised by [Leanne Chukoskie](https://bouve.northeastern.edu/directory/leanne-chukoskie/){:target="_blank"} at the Qualcomm Institute at UCSD, conducted self-directed research project on engagement in online learning during COVID pandemic
 - Developed and distributed survey of UCSD students about their course experiences
 - Analyzed and visualized data in R, wrote most of paper's Results section
-- **Published in *Frontiers in Education* as co-first author**
+- **[Published in *Frontiers in Education*](https://doi.org/10.3389/feduc.2022.851019){:target="_blank"} as co-first author**
 
 ---
 
