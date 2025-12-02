@@ -3,7 +3,7 @@
 
 *praveen_nair@brown.edu* • [CV](/assets/CV.pdf){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=8OTteiYAAAAJ&hl=en){:target="_blank"} • [GitHub](https://github.com/pnair7){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/pnair7/){:target="_blank"}
 
-At Brown, I'll be working with [Professor Suresh Venkatasubramanian](https://scholar.google.com/citations?user=Z03FLwkAAAAJ&hl=en){:target="_blank"} at the [Center for Technological Responsibility, Reimagination, and Redesign (CNTR)](https://cntr.brown.edu/){:target="_blank"}.
+At Brown, I'm working with [Professor Suresh Venkatasubramanian](https://scholar.google.com/citations?user=Z03FLwkAAAAJ&hl=en){:target="_blank"} at the [Center for Technological Responsibility, Reimagination, and Redesign (CNTR)](https://cntr.brown.edu/){:target="_blank"}. Currently, we're looking at how high-stakes decisionmaking models can be monitored in messy, post-deployment contexts where labels are scarce.
 
 As an RA with [Professor Amit Goldenberg](https://www.amitgoldenberg.com/){:target="_blank"} at Harvard Business School, I contributed to a number of projects dealing with AI and emotional support. This included the implementation, management, and analysis of an interactive study on GPT vs. human performance in cognitive reappraisal tasks ([preprint here](https://osf.io/preprints/psyarxiv/fzvd8_v3){:target="_blank"}).
 

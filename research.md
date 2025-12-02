@@ -9,7 +9,7 @@ title: Research Experience
 - Designed and implemented live, interactive study with both human-human interactions (using [Smartriqs](https://www.smartriqs.com/){:target="_blank"}) and human-AI interaction using the OpenAI API.
 - Performed analysis in R and Python, using statistical and embeddings-based methods.
 - Supported lab's computational, data, and informational infrastructure.
-- Preprint in submission, [now on Psyarxiv](https://osf.io/preprints/psyarxiv/fzvd8_v3){:target="_blank"}
+- Preprint in submission, [now on Psyarxiv](https://osf.io/preprints/psyarxiv/fzvd8_v4){:target="_blank"}
 
 ## Integration of Overlapping Networks via Constraints (ION-C)
 *September 2023 — Present*
